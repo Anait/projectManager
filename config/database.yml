@@ -17,8 +17,8 @@ development:
   encoding: unicode
   database: projectManager_development
   pool: 5
-  username: projectManager
-  password:
+  username: projectmanager
+  password: Vahe1Lilo2
 
   # Connect on a TCP socket. Omitted by default since the client uses a
   # domain socket that doesn't need configuration. Windows does not have
@@ -43,13 +43,13 @@ test:
   encoding: unicode
   database: projectManager_test
   pool: 5
-  username: projectManager
-  password:
+  username: projectmanager
+  password: Vahe1Lilo2
 
 production:
   adapter: postgresql
   encoding: unicode
   database: projectManager_production
   pool: 5
-  username: projectManager
-  password:
+  username: projectmanager
+  password: Vahe1Lilo2
