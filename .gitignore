@@ -13,3 +13,6 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+#Ignore postgreSQL database.yml since it may contain passwords
+/config/database.yml
